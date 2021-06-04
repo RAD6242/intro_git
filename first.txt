@@ -8,3 +8,6 @@ Gitの練習をしていきます。
 ・git log
 ・git log --oneline
 ・git log -p
+・git log -n
+・git diff
+・git diff HEAD
